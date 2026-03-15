@@ -149,5 +149,4 @@ Built as a star schema in Power BI:
 
 - Dataset is synthetic — real-world data would contain duplicates, nulls, and inconsistencies requiring additional cleaning
 - CAC is a blended company average and cannot be broken down by plan with the available data
-- Churn reasons are self-reported and may not fully reflect actual drivers
 - CLV:CAC ratios are unusually high compared to real SaaS benchmarks due to the synthetic nature of the dataset
