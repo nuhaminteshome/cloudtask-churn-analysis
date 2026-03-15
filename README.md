@@ -89,8 +89,11 @@ CLV by plan, CLV:CAC ratio with 3× reference line, at-risk customer interventio
 ### Screenshots
 
 ![Churn Overview](screenshots/page1_churn_overview.png)
+
 ![Segment Analysis](screenshots/page2_segment_analysis.png)
+
 ![Revenue Trends](screenshots/page3_revenue_trends.png)
+
 ![Unit Economics](screenshots/page4_unit_economics.png)
 
 ---
